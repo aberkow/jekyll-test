@@ -10,5 +10,13 @@
     "blog"
   ],
   "author": "Adam Berkowitz",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aberkow/jekyll-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aberkow/jekyll-test/issues"
+  },
+  "homepage": "https://github.com/aberkow/jekyll-test#readme"
 }
