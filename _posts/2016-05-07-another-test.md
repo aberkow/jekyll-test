@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another test"
-published: false
+published: true
 ---
 ## A New Post
 
